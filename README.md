@@ -11,5 +11,5 @@
 Here are some ideas to get you started:
 -->
 🤘🏿 Hello, I'm Jalen! I'm a student at Ontario Tech University studying Software Engineering and a Lighthouse Lab Grad :)<br>
-🌱I'm into everything webdev and I'm always trying to learn new things
+🌱 I'm into everything infra related and I'm always trying to learn new things
 
